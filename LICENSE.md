@@ -1,4 +1,4 @@
-# 
+# Último A web AI object detection extensiones. Con integración de chatbot y extracción de características — optimizado para el máximo rendimiento.
 
 
 
